@@ -48,8 +48,8 @@ public class TestBase2 {
         DesiredCapabilities caps = new DesiredCapabilities();
         caps.setCapability("deviceName", device);
         caps.setCapability("platformName", platform);
-        caps.setCapability("app", cwd+"\\src\\app\\new-app-debug.apk");
-        caps.setCapability("automationName","UiAutomator2");
+        caps.setCapability("app", cwd+"/src/app/app-debug (2).apk");
+        caps.setCapability("automationName","Appium");
 
         driver = new AndroidDriver(new URL("http://0.0.0.0:4723/wd/hub"), caps);
         driver.manage().timeouts().implicitlyWait(TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS);

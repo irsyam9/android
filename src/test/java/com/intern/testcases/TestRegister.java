@@ -31,6 +31,7 @@ public class TestRegister extends TestBase2 {
     private AddProduct addproduct;
     private NavigationBar navigationbar;
     private EditProfile editprofile;
+    private Logout logout;
 
     public TestRegister(){super();}
 
@@ -54,6 +55,7 @@ public class TestRegister extends TestBase2 {
         addproduct = new AddProduct();
         navigationbar = new NavigationBar();
         editprofile = new EditProfile();
+        logout = new Logout();
     }
 
     @AfterMethod
@@ -189,5 +191,7 @@ public class TestRegister extends TestBase2 {
         editprofile.selectHairConcern();
         editprofile.tapSave2Btn();
         editprofile.tapDoneBtn();
+        logout.tapLogoutBtn();
+        logout.tapOkBtn();
     }
 }

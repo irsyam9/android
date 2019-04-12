@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11242476-aab4-4f9d-a165-ae3d5216327b" name="Default Changelist" comment="">
+    <list default="true" id="c7a31774-ae4d-4253-a3c9-3f539350499b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/intern/pages/Logout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/intern/testcases/TestFeed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/new-app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTesting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/intern/base/TestBase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intern/base/TestBase2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/intern/testcases/TestRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/intern/testcases/TestRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intern/base/TestBase2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intern/base/TestBase2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/intern/testcases/TestRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/intern/testcases/TestRegister.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,59 +22,47 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/intern/base/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/intern/pages/AddComment.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intern/base/TestBase2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="629">
+              <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/intern/testcases/TestCaseMix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intern/config/config.properties">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/intern/testcases/TestRegister.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="82" column="16" lean-forward="true" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="114">
+              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\user\IntelliJIDEAProjects\AutomationTesting\src</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,16 +70,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/intern/testcases/TestRegister.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/intern/base/TestBase2.java" />
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="656" />
-    <option name="height" value="496" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -137,6 +136,15 @@
               <item name="AutomationTesting" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutomationTesting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intern" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,18 +171,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk_" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553496314745" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554995402175" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyApplication2" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\IntelliJIDEAProjects\AutomationTesting" />
-      <recent name="C:\Users\user\IntelliJIDEAProjects\AutomationTesting\src" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,42 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestRegister.tcRegister">
-    <configuration name="TestCaseMix" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.intern.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.intern.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.intern.testcases.TestCaseMix" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCaseMix.testMix" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.intern.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.intern.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.intern.testcases.TestCaseMix" />
-      <option name="METHOD_NAME" value="testMix" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="TestRegister.tcRegister" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationTesting" />
       <extension name="coverage">
@@ -245,8 +213,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.TestRegister.tcRegister" />
-        <item itemvalue="TestNG.TestCaseMix.testMix" />
-        <item itemvalue="TestNG.TestCaseMix" />
       </list>
     </recent_temporary>
   </component>
@@ -255,116 +221,117 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="11242476-aab4-4f9d-a165-ae3d5216327b" name="Default Changelist" comment="" />
-      <created>1553227022836</created>
+      <changelist id="c7a31774-ae4d-4253-a3c9-3f539350499b" name="Default Changelist" comment="" />
+      <created>1554345337298</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553227022836</updated>
+      <updated>1554345337298</updated>
+      <workItem from="1554345351707" duration="3741000" />
+      <workItem from="1554956260070" duration="7793000" />
+      <workItem from="1554993122664" duration="2536000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCaseMix - 2019.03.22 at 14h 18m 13s.xml">
-      <configuration name="TestCaseMix" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestCaseMix_testMix - 2019.03.22 at 15h 08m 10s.xml">
-      <configuration name="TestCaseMix.testMix" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestRegister_tcRegister - 2019.03.22 at 15h 12m 36s.xml">
+    <history-entry file="TestRegister_tcRegister - 2019.04.04 at 10h 07m 13s.xml">
       <configuration name="TestRegister.tcRegister" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRegister_tcRegister - 2019.03.22 at 15h 46m 42s.xml">
+    <history-entry file="TestRegister_tcRegister - 2019.04.04 at 10h 55m 19s.xml">
       <configuration name="TestRegister.tcRegister" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRegister_tcRegister - 2019.03.22 at 16h 00m 57s.xml">
+    <history-entry file="TestRegister_tcRegister - 2019.04.04 at 10h 58m 14s.xml">
       <configuration name="TestRegister.tcRegister" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRegister_tcRegister - 2019.03.22 at 16h 03m 09s.xml">
+    <history-entry file="TestRegister_tcRegister - 2019.04.11 at 12h 35m 03s.xml">
       <configuration name="TestRegister.tcRegister" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRegister_tcRegister - 2019.03.22 at 16h 15m 33s.xml">
+    <history-entry file="TestRegister_tcRegister - 2019.04.11 at 13h 18m 57s.xml">
       <configuration name="TestRegister.tcRegister" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRegister_tcRegister - 2019.03.22 at 16h 30m 04s.xml">
+    <history-entry file="TestRegister_tcRegister - 2019.04.11 at 13h 44m 03s.xml">
       <configuration name="TestRegister.tcRegister" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRegister_tcRegister - 2019.03.25 at 11h 02m 16s.xml">
+    <history-entry file="TestRegister_tcRegister - 2019.04.11 at 13h 44m 16s.xml">
       <configuration name="TestRegister.tcRegister" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestRegister_tcRegister - 2019.04.11 at 13h 47m 30s.xml">
+      <configuration name="TestRegister.tcRegister" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRegister_tcRegister - 2019.04.11 at 22h 09m 40s.xml">
+      <configuration name="TestRegister.tcRegister" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.118003026" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39938557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32872504" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.39938557" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32872504" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/src/test/java/com/intern/testcases/TestCaseMix.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/intern/base/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/intern/pages/AddComment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/intern/testcases/TestCaseMix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intern/base/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/intern/base/TestBase2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="51" column="51" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="51" />
+        <state relative-caret-position="629">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intern/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/intern/testcases/TestRegister.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="82" column="16" lean-forward="true" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+        <state relative-caret-position="114">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -385,7 +352,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring (AutomationTesting)|Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -408,7 +375,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>Android API 28 Platform</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -426,18 +393,6 @@
               <list>
                 <option value="0.2" />
                 <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
